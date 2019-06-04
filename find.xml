@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,11 +17,11 @@
     <mask>*.yml</mask>
     <mask>*Manager.php</mask>
     <mask>*Controller.php</mask>
-    <mask>*Test.php</mask>
     <mask>Api.php</mask>
     <mask>b*.class.php</mask>
     <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>*Repository.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
