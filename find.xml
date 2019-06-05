@@ -21,7 +21,7 @@
     <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>*Repository.php</mask>
-    <mask>*Test.php</mask>
     <mask>*Service.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
