@@ -13,15 +13,15 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>b*.php</mask>
-    <mask>*.yml</mask>
     <mask>*Manager.php</mask>
     <mask>*Controller.php</mask>
     <mask>Api.php</mask>
     <mask>b*.class.php</mask>
-    <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>*Repository.php</mask>
     <mask>*Service.php</mask>
     <mask>*Test.php</mask>
+    <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
