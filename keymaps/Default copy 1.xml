@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="IntroduceConstant" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+</keymap>
