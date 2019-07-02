@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="dada" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
