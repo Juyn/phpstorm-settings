@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="001_add_home_page_edition.sql" type="PLAIN_TEXT" />
       <mapping pattern="dada" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
